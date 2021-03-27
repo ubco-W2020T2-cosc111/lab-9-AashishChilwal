@@ -149,8 +149,8 @@ You do not have to do anything in this section.
 [Q3 Java file](./Q3.java)
 
 [Q4 Java file](./Screen Shot 2021-03-26 at 6.44.34 PM.png)
-[Q4 Java file](./Screen Shot 2021-03-26 at 6.44.34 PM.png)
-[Q4 Java file](./Screen Shot 2021-03-26 at 6.44.34 PM.png)
-[Q4 Java file](./Screen Shot 2021-03-26 at 6.44.34 PM.png)
+[Q4 Java file](./Screen Shot 2021-03-26 at 6.44.37 PM.png)
+[Q4 Java file](./Screen Shot 2021-03-26 at 6.47.43 PM.png)
+[Q4 Java file](./Screen Shot 2021-03-26 at 6.47.58 PM.png)
 
 Remember to commit all your changes and to submit the link to this repository on Canvas.
