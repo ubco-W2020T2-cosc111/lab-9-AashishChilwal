@@ -148,6 +148,6 @@ You do not have to do anything in this section.
 
 [Q3 Java file](./Q3.java)
 
-[Q4 Java file](./Q4.java)
+[Q4 Java file](./Q4.md)
 
 Remember to commit all your changes and to submit the link to this repository on Canvas.
